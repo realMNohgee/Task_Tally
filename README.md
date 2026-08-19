@@ -1,4 +1,5 @@
 # Task_Tally
+![CI](https://github.com/realMNohgee/Task_Tally/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 CLI time tracker. Start and stop tasks, tag projects, export CSV reports. **Zero dependencies** — Python stdlib only.
 
